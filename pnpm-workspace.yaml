@@ -1,0 +1,3 @@
+packeages:
+  - apps/*
+  - libs/*
