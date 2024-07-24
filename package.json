@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "https://github.com/graph-n3/monorepo-boilerplate",
+  "repository": "https://github.com/codebloded/graphql-next-nest-setup-boilerplate",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "pnpm exec nx run-many -t build",
