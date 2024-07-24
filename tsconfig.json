@@ -1,0 +1,12 @@
+// generat the tsconfig.json file
+// npx tsc --init
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "exclude": ["node_modules"]
+}

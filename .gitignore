@@ -3,4 +3,8 @@ build
 dist
 .next
 .env
-.nx
+
+
+
+.nx/cache
+.nx/workspace-data
