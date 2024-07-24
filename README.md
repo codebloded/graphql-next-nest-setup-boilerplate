@@ -1,2 +1,2 @@
 # Nx Mono-repo setup Boilerplate 
-## Next.js, Nest.js, GraphlQL, Prisma, Postgress, Docker
+## Next.js, Nest.js, GraphQL, Prisma, Postgress, Docker
